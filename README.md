@@ -170,7 +170,8 @@ Potential future enhancements include:
 * Backend integration with Flask or Django
 * API-based destination data
 * Dark mode support
---
+---
+
 # Author
 
 KGU
